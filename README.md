@@ -1,1 +1,2 @@
-# Atlas
+# Atlas - Wallet Digital 💲
+
